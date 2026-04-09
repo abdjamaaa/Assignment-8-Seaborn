@@ -1,7 +1,7 @@
 # Seaborn Data Visualization Project
 
 ## Purpose
-This project uses Python and Seaborn to create data visualizations from real-world exercise data and the built-in planets dataset.
+The project is written in Python using Seaborn to generate visualizations of data through real life exercise data and the provided built in planet data set.
 
 ---
 
@@ -16,7 +16,7 @@ The project includes:
 
 ---
 
-## Technologies Used
+## Libraries Used
 - Python
 - Pandas
 - Seaborn
@@ -45,8 +45,8 @@ The program uses a class called `SeabornAssignment` to organize the code.
 ---
 
 ## Results
-Exercise data shows that pulse increases with exercise and is slightly affected by diet.  
-Planets data shows that farther planets tend to have longer orbital periods.
+Results of exercises indicate that pulse rises and is marginally influenced by diet.  
+Planets data indicates that more distant planets are likely to have longer orbital periods.
 
 ---
 
