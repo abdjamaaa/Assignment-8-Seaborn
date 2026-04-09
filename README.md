@@ -54,10 +54,6 @@ Planets data indicates that more distant planets are likely to have longer orbit
 - Assumes columns: `pulse`, `diet`, `exercise`
 - Missing data may affect results
 
----
-
-## Conclusion
-This project shows how Seaborn can visualize patterns and relationships in data effectively.
 
 ---
 
