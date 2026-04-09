@@ -53,9 +53,3 @@ Planets data indicates that more distant planets are likely to have longer orbit
 ## Limitations
 - Assumes columns: `pulse`, `diet`, `exercise`
 - Missing data may affect results
-
-
----
-
-## AI Usage
-This project was completed with assistance from ChatGPT.
